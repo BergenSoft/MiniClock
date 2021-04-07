@@ -1,0 +1,12 @@
+Aktueller Aufbau der Telegramme.
+Wie unterscheide ich die T20?
+Bis Sequenznummer alles gleich -> Zur Unterscheidung der Stationen Statiosnummer oder Stationsindex aus Telegram benutzen? 
+Alles in eine config? oder Stationsweise? oder egal?
+
+Zu jedem Telegramm ein paar Beispiel Telegramme
+
+Excel Datei Aufbau der Nummern: 580.1.1.2
+	-> Stationsnummer	580
+	-> Funktionseinheit	
+	-> Bearbeitungsposition	
+	-> Stationsindex	
